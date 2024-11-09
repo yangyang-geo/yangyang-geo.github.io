@@ -1,9 +1,5 @@
-- First-prize Academic Scholarship, 2023.
+- 全国地理奥林匹克竞赛 优秀指导教师, 2024.
 
-- Freshman Academic Scholarship, 2022.
+- 行知杯 一等奖, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 圣陶杯 二等奖, 2022.

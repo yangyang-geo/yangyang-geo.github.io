@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![yangyang-geo](https://img.shields.io/badge/yangyang-geo-github-blue?logo=github)](https://github.com/yangyang-geo)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+我叫杨洋，是一名高中地理教师，我热爱地理教学，牢记学为人师，行为世范的校训，深耕三尺讲台，牢记育人初心！
 
-#### Email
-sli[at]cumt.edu.cn
+#### 工作经历
+高中地理教师, 江苏省外国语学校, 2022-至今
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育经历
+工学硕士, 摄影测量与遥感, 北京师范大学 地理科学学部, 2019—2022.\
+理学学士, 地理信息科学, 北京师范大学 地理科学学部, 2015—2019.\
+高中，江苏省海安高级中学, 2012-2015
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 兴趣
+地理教学, 遥感，GIS，摄影.
 
